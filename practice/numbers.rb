@@ -20,7 +20,7 @@ numbers = [1,2,3,4,5]
             # even_nums = []
 
             # numbers.each do |num|
-            #     if num.odd?
+            #     if num.even?
             #         even_nums << num
             #     end 
             # end 
