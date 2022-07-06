@@ -7,11 +7,13 @@
 
 names = ['richard', 'chris', 'dani']
 
+capital_names = []
+
 names.each do |name|
-  name.capitalize
+  capital_names << name.capitalize
 end
 
-p names
+p capital_names
 
 
 # Task # 2
